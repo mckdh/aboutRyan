@@ -1,6 +1,6 @@
 # Ryan Kim
-Author and Developer
-iOS, Android, Server
+* Author and Developer
+* iOS, Android, Server
 
 ## Author
 * I wrote a book in Korea, which contains OOP Conception.
