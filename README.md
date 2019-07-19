@@ -22,7 +22,7 @@
 *	Enjoy Agile, Using Scrum, Jira, Git
 *	Skilled in technical writing, Published IT Book, which contains OOP Conception.
 
-<img width="134" alt="스크린샷 2019-07-18 오후 7 52 13" src="https://user-images.githubusercontent.com/11452935/61503601-a382f280-a995-11e9-815b-2d45d7d65f1c.png">
-<img width="134" alt="스크린샷 2019-07-18 오후 7 52 13" src="https://user-images.githubusercontent.com/11452935/61503605-a7167980-a995-11e9-8477-c5f367188991.png">
-<img width="134" alt="스크린샷 2019-07-18 오후 7 52 13" src="https://user-images.githubusercontent.com/11452935/61503611-aaaa0080-a995-11e9-9414-1d292ad48173.png">
+<img width="134" src="https://user-images.githubusercontent.com/11452935/61503601-a382f280-a995-11e9-815b-2d45d7d65f1c.png">
+<img width="134" src="https://user-images.githubusercontent.com/11452935/61503605-a7167980-a995-11e9-8477-c5f367188991.png">
+<img width="134" src="https://user-images.githubusercontent.com/11452935/61503611-aaaa0080-a995-11e9-9414-1d292ad48173.png">
 
