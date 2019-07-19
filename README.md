@@ -13,7 +13,9 @@
 
 ## Developer
 * Experienced full-stack developer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well versed in technology and writing code to create systems that are reliable and user-friendly. An author who has published an IT Book in Korea.
+
 * Experienced (skills and technologies) in: Java Server, iOS, Android Development and having common skill
+
 *	Skilled in java development for web, batch jobs, daemons, network development utilizing Java, Spring, Apache MINA, Oracle/MySQL with Apache, JBoss
 *	iOS development and diverse experience with xCode and iTunes Connect
 *	Developed Android applications through Java and Kotlin, Google Play Store
