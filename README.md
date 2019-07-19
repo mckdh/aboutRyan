@@ -25,3 +25,15 @@
 ![스크린샷 2019-03-09 오후 5 15 22](https://user-images.githubusercontent.com/11452935/61503601-a382f280-a995-11e9-815b-2d45d7d65f1c.png)
 ![스크린샷 2019-03-09 오후 5 15 55](https://user-images.githubusercontent.com/11452935/61503605-a7167980-a995-11e9-8477-c5f367188991.png)
 <img width="134" alt="스크린샷 2019-07-18 오후 7 52 13" src="https://user-images.githubusercontent.com/11452935/61503611-aaaa0080-a995-11e9-9414-1d292ad48173.png">
+
+## Employment
+### Outline
+* Working in the biggers company in Korea
+### Samsung Electronics (October, 2018 ~ March, 2019)
+As a freelancer, created a project in new product development department. Provided Android skill to the project.
+### Shinhan Financial Group (July, 2011 ~ March, 2018)
+Lead the software development team for the one of the biggest banks in Korea, consisting of highly talented individuals who design and develop Java server, iPhone, and Android applications. Successfully initiated and developed Java Push Server for the intranet messenger and Push Alarm service for the banking users in an environment handling millions of transactions
+
+## Contact
+(780) 803-5071 | airqjang@gmail.com
+If you want my resume and talking with me, you can get in touch with me. 
