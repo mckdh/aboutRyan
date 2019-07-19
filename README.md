@@ -36,7 +36,7 @@ Lead the software development team for the one of the biggest banks in Korea, co
 ### Financial industry (April, 2004 ~ March, 2011)
 Programming at Initech, Actively involved throughout developing internet banking system process, from requirements analysis, architecture and implementation, testing, release, and support. Successfully completed development of 7 internet banking systems based on Java and Linux. Designed and developed web application based on Spring Framework 
 ### Air Force (April, 1999 ~ July, 2003)
-Served in Korean Air Force as a Non-Commissioned Officer for 4 years 
+Served in Korean Air Force as a Non-Commissioned Officer for 4 years.
 Technologies used: maintaining UNIX system
 
 ## Contact
