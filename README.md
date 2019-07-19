@@ -3,7 +3,7 @@
 * iOS, Android, Server
 
 ## Author
-* I wrote a book in Korea, which contains OOP Conception.
+* I wrote a book in Korea, which contains Objective Orientation Programming Conception.
 * It took a decade to write.
 * It shows that I have patience, persistence and writing skill.
 * I can use OOP well when I program.
