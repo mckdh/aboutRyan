@@ -33,7 +33,12 @@ Working in the biggers company in Korea
 As a freelancer, created a project in new product development department. Provided Android skill to the project.
 ### Shinhan Financial Group (July, 2011 ~ March, 2018)
 Lead the software development team for the one of the biggest banks in Korea, consisting of highly talented individuals who design and develop Java server, iPhone, and Android applications. Successfully initiated and developed Java Push Server for the intranet messenger and Push Alarm service for the banking users in an environment handling millions of transactions
+### Financial industry (April, 2004 ~ March, 2011)
+Programming at Initech, Actively involved throughout developing internet banking system process, from requirements analysis, architecture and implementation, testing, release, and support. Successfully completed development of 7 internet banking systems based on Java and Linux. Designed and developed web application based on Spring Framework 
+### Air Force (April, 1999 ~ July, 2003)
+Served in Korean Air Force as a Non-Commissioned Officer for 4 years 
+Technologies used: maintaining UNIX system
 
 ## Contact
-(780) 803-5071 | airqjang@gmail.com
-If you want my resume and talking with me, you can get in touch with me. 
+* (780) 803-5071 | airqjang@gmail.com
+* If you want my resume and talking with me, you can get in touch with me. 
