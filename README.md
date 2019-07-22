@@ -40,7 +40,8 @@ Served in Korean Air Force as a Non-Commissioned Officer for 4 years.
 Technologies used: maintaining UNIX system
 
 ## Contact
-* (780) 803-5071 | airqjang@gmail.com
+* (780) 803-5071 
+* airqjang@gmail.com
 * If you want my resume and wish to talk with me, you can get in touch with me.
 
 <img width="400" src="https://user-images.githubusercontent.com/11452935/61641177-e70e8280-ac5b-11e9-8a63-1792b514c534.png">
