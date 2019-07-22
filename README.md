@@ -3,11 +3,11 @@
 * iOS, Android, Server
 
 ## Author
-* I wrote a book in Korea, which contains Objective Oriented Programming Conception.
+* I wrote a book in Korea, which contains Objective Oriented Programming conceptions.
 * It took a decade to write.
 * It shows that I have patience, persistence and writing skill.
 * I can use OOP well when I program.
-* This book was bestseller in programming category in May 2019.
+* This book was a bestseller in that programming category in May, 2019.
 ![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
 * http://www.yes24.com/Product/Goods/69723451 (in online bookstore, Korea)
 
@@ -28,7 +28,7 @@
 
 ## Employment
 ### Outline
-Worked in the biggers company in Korea
+Worked in the biggerst company in Korea
 ### Samsung Electronics (October, 2018 ~ March, 2019)
 As a freelancer, created a project in new product development department. Provided Android skill to the project.
 ### Shinhan Financial Group (July, 2011 ~ March, 2018)
@@ -41,4 +41,4 @@ Technologies used: maintaining UNIX system
 
 ## Contact
 * (780) 803-5071 | airqjang@gmail.com
-* If you want my resume and talking with me, you can get in touch with me. 
+* If you want my resume and wish to talk with me, you can get in touch with me. 
