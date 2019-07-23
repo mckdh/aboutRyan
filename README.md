@@ -28,7 +28,7 @@
 
 ## Employment
 ### Outline
-Worked in the biggerst company in Korea
+Worked in the biggest company in Korea
 ### Samsung Electronics (October, 2018 ~ March, 2019)
 As a freelancer, created a project in new product development department. Provided Android skill to the project.
 ### Shinhan Financial Group (July, 2011 ~ March, 2018)
