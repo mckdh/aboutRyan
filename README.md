@@ -46,7 +46,7 @@ As a freelancer, created a project in a new product development department of Sa
 ### Shinhan Financial Group (July, 2011 ~ March, 2018)
 Lead the software development team for one of the largest banks in Korea, consisting of highly talented individuals focused on designing and developing Java server, iPhone, and Android applications. Successfully initiated and developed Java Push Server for the intranet messenger and Push Alarm service for banking users in an environment handling millions of transactions per day.
 ### Financial industry (April, 2004 ~ March, 2011)
-Programming at Initech, Actively involved throughout developing internet banking system process, from requirements analysis, architecture and implementation, testing, release, and support. Successfully completed development of 7 internet banking systems based on Java and Linux. Designed and developed web application based on Spring Framework 
+Programming at Initech, Actively involved throughout development of internet banking system process, from requirements analysis, architecture and implementation, testing, release, and support. Successfully designed and developed a variety of frameworks directly, including a web framework, network framework and deployment servers, and completed development of 7 internet banking systems based on Java and Linux. Responsible for operating and maintaining an anti-money laundering system for Hana Bank without incidents, and designed and developed 3 iPhone applications.
 ### Air Force (April, 1999 ~ July, 2003)
 Served in the Korean Air Force as a Non-Commissioned Officer for 4 years. Technologies used: UNIX system
 
