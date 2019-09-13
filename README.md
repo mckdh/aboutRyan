@@ -15,11 +15,11 @@
 ## Developer
 I am an experienced full-stack developer and published author with a passion for developing innovative software that expedites the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
 ### Detail
-●	iOS development and diverse experience with xCode
-●	Android applications developed with both Java and Kotlin
-●	Skilled in Java development for web, batch jobs, daemons, network development utilizing Java, Spring, Apache MINA, Oracle/MySQL, Apache, JBoss, JavaScript
-●	Enjoy Agile, Scrum, Jira, Git, TDD
-●	Providing technical advice to customers and mentoring developers
+*	iOS development and diverse experience with xCode
+* Android applications developed with both Java and Kotlin
+*	Skilled in Java development for web, batch jobs, daemons, network development utilizing Java, Spring, Apache MINA, Oracle/MySQL, Apache, JBoss, JavaScript
+*	Enjoy Agile, Scrum, Jira, Git, TDD
+*	Providing technical advice to customers and mentoring developers
 
 ![스크린샷 2019-03-09 오후 5 15 22](https://user-images.githubusercontent.com/11452935/61503601-a382f280-a995-11e9-815b-2d45d7d65f1c.png)
 ![스크린샷 2019-03-09 오후 5 15 55](https://user-images.githubusercontent.com/11452935/61503605-a7167980-a995-11e9-8477-c5f367188991.png)
@@ -35,8 +35,8 @@ Lead the software development team for one of the largest banks in Korea, consis
 ### Financial industry (April, 2004 ~ March, 2011)
 Programming at Initech, Actively involved throughout developing internet banking system process, from requirements analysis, architecture and implementation, testing, release, and support. Successfully completed development of 7 internet banking systems based on Java and Linux. Designed and developed web application based on Spring Framework 
 ### Air Force (April, 1999 ~ July, 2003)
-●	Served in the Korean Air Force as a Non-Commissioned Officer for 4 years 
-●	Technologies used: UNIX system
+*	Served in the Korean Air Force as a Non-Commissioned Officer for 4 years 
+*	Technologies used: UNIX system
 
 ## Contact
 * (780) 803-5071 
