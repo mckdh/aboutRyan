@@ -12,7 +12,7 @@
 ![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
 * http://www.yes24.com/Product/Goods/69723451 (in online bookstore, Korea)
 
-<img width="134" alt="KakaoTalk_20190912_181230194" src="https://user-images.githubusercontent.com/11452935/64829364-423c6180-d589-11e9-8c9d-cdee6100a017.jpg">
+<img width="300" alt="KakaoTalk_20190912_181231921" src="https://user-images.githubusercontent.com/11452935/64829369-45cfe880-d589-11e9-9967-03da275ff5be.jpgg">
 
 ## Developer
 I am an experienced full-stack developer and published author with a passion for developing innovative software that expedites the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
