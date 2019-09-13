@@ -13,6 +13,7 @@
 * http://www.yes24.com/Product/Goods/69723451 (in online bookstore, Korea)
 
 <img width="300" alt="KakaoTalk_20190912_181231921" src="https://user-images.githubusercontent.com/11452935/64829369-45cfe880-d589-11e9-9967-03da275ff5be.jpg">
+
 * This is the bestseller mark
 
 ## Developer
