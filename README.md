@@ -12,10 +12,10 @@
 ![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
 * http://www.yes24.com/Product/Goods/69723451 (in online bookstore, Korea)
 
+### Bestseller mark
 <img width="300" alt="KakaoTalk_20190912_181231921" src="https://user-images.githubusercontent.com/11452935/64829369-45cfe880-d589-11e9-9967-03da275ff5be.jpg">
 
-* This is the bestseller mark
-
+### Recommendation
 * "This book becomes to help good guide for developers career.", a senior developer and a power IT blogger.
 * https://coderlife.tistory.com/621
 
