@@ -16,13 +16,13 @@
 <img width="300" alt="KakaoTalk_20190912_181231921" src="https://user-images.githubusercontent.com/11452935/64829369-45cfe880-d589-11e9-9967-03da275ff5be.jpg">
 
 ### Recommendation
-* "This book becomes to help good guide for developers career.", a senior developer and a power IT blogger.
+* "This book becomes to help good guide for developers career" by a senior developer and a power IT blogger.
 * https://coderlife.tistory.com/621
 
-* "The strength of this book is the various experience of the author.", a senior developer and a power IT blogger.
+* "The strength of this book is the various experience of the author" by a senior developer and a power IT blogger.
 * https://koko8829.tistory.com/2024
 
-* "This book is very nice for the developer who wants to study the OOP again.", a senior developer and a famous IT youtuber.
+* "This book is very nice for the developer who wants to study the OOP again" by a senior developer and a famous IT youtuber.
 * https://www.youtube.com/watch?v=4rAWL6AgOFY
 
 ## Developer
