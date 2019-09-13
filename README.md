@@ -16,6 +16,15 @@
 
 * This is the bestseller mark
 
+* "This book becomes to help good guide for developers career.", a senior developer and a power IT blogger.
+* https://coderlife.tistory.com/621
+
+* "The strength of this book is the various experience of the author.", a senior developer and a power IT blogger.
+* https://koko8829.tistory.com/2024
+
+* "This book is very nice for the developer who wants to study the OOP again.", a senior developer and a famous IT youtuber.
+* https://www.youtube.com/watch?v=4rAWL6AgOFY
+
 ## Developer
 I am an experienced full-stack developer and published author with a passion for developing innovative software that expedites the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
 ### Detail
