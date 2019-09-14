@@ -34,9 +34,13 @@ I am an experienced full-stack developer and published author with a passion for
 *	Enjoy Agile, Scrum, Jira, Git, TDD
 *	Providing technical advice to customers and mentoring developers
 
-![스크린샷 2019-03-09 오후 5 15 22](https://user-images.githubusercontent.com/11452935/61503601-a382f280-a995-11e9-815b-2d45d7d65f1c.png)
-![스크린샷 2019-03-09 오후 5 15 55](https://user-images.githubusercontent.com/11452935/61503605-a7167980-a995-11e9-8477-c5f367188991.png)
-<img width="134" alt="스크린샷 2019-07-18 오후 7 52 13" src="https://user-images.githubusercontent.com/11452935/61503611-aaaa0080-a995-11e9-9414-1d292ad48173.png">
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/11452935/61503601-a382f280-a995-11e9-815b-2d45d7d65f1c.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/11452935/61503605-a7167980-a995-11e9-8477-c5f367188991.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/11452935/61503611-aaaa0080-a995-11e9-9414-1d292ad48173.png"></td>
+  </tr>
+</table>
 
 ## Employment
 ### Outline
