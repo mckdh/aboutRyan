@@ -47,8 +47,7 @@ Served in the Korean Air Force as a Non-Commissioned Officer and UNIX administra
 
 ## Contact
 * (780) 803-5071 
-* ryan0423@gmail.com
-* airqjang@gmail.com
+* ryan0423@gmail.com or airqjang@gmail.com
 * If you want my resume and wish to talk with me, you can get in touch with me.
 
 <img width="400" src="https://user-images.githubusercontent.com/11452935/61641177-e70e8280-ac5b-11e9-8a63-1792b514c534.png">
