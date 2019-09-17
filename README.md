@@ -3,30 +3,17 @@
 * iOS, Android, Server
 * I live in Edmonton, Canada
 
+## Portfolio
+* You can see my various portfolio in here.
+* https://github.com/mckdh/aboutRyan/wiki/
+
 ## Author
 * I wrote a book in Korea, which contains Objective Oriented Programming conceptions.
-* It took a decade to write.
-* It shows that I have patience, persistence and writing skill.
-* I can use OOP well when I program.
-* This book was a bestseller in that programming category in May, 2019.
-![f](https://user-images.githubusercontent.com/11452935/51438922-2c2a1a00-1cf6-11e9-8ae4-3308ba0b95c2.jpg)
-* http://www.yes24.com/Product/Goods/69723451 (in online bookstore, Korea)
-
-### Bestseller mark
-<img width="300" alt="KakaoTalk_20190912_181231921" src="https://user-images.githubusercontent.com/11452935/64829369-45cfe880-d589-11e9-9967-03da275ff5be.jpg">
-
-### Recommendation
-* "This book becomes to help good guide for developers career" by a senior developer and a power IT blogger.
-* https://coderlife.tistory.com/621
-
-* "The strength of this book is the various experience of the author" by a senior developer and a power IT blogger.
-* https://koko8829.tistory.com/2024
-
-* "This book is very nice for the developer who wants to study the OOP again" by a senior developer and a famous IT youtuber.
-* https://www.youtube.com/watch?v=4rAWL6AgOFY
+* https://github.com/mckdh/aboutRyan/wiki/Book
 
 ## Developer
 I am an experienced full-stack developer and published author with a passion for developing innovative software that expedites the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
+
 ### Detail
 *	iOS development and diverse experience with xCode
 * Android applications developed with both Java and Kotlin
@@ -53,6 +40,10 @@ Lead the software development team for one of the largest banks in Korea, consis
 Programming at Initech, Actively involved throughout development of internet banking system process, from requirements analysis, architecture and implementation, testing, release, and support. Successfully designed and developed a variety of frameworks directly, including a web framework, network framework and deployment servers, and completed development of 7 internet banking systems based on Java and Linux. Responsible for operating and maintaining an anti-money laundering system for Hana Bank without incidents, and designed and developed 3 iPhone applications.
 ### Air Force (April, 1999 ~ July, 2003)
 Served in the Korean Air Force as a Non-Commissioned Officer for 4 years. Technologies used: UNIX system
+
+## Portfolio
+* You can see my various portfolio in here.
+* https://github.com/mckdh/aboutRyan/wiki/
 
 ## Contact
 * (780) 803-5071 
